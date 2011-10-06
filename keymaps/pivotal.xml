@@ -18,6 +18,7 @@
     <keyboard-shortcut first-keystroke="meta V" />
     <keyboard-shortcut first-keystroke="shift INSERT" />
     <keyboard-shortcut first-keystroke="control V" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="ActivateChangesToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
@@ -97,6 +98,7 @@
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="control V" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="control CLOSE_BRACKET" />
@@ -134,6 +136,7 @@
     <keyboard-shortcut first-keystroke="shift alt RIGHT" />
     <keyboard-shortcut first-keystroke="shift control RIGHT" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt LEFT" />
     <keyboard-shortcut first-keystroke="control LEFT" />
@@ -196,7 +199,6 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta B" />
     <mouse-shortcut keystroke="meta button1" />
-    <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="control B" />
   </action>
   <action id="GotoFile">
