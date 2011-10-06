@@ -67,6 +67,9 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta W" />
   </action>
+  <action id="CloseAllUnpinnedEditors">
+    <keyboard-shortcut first-keystroke="control meta alt W" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="control SPACE" />
     <keyboard-shortcut first-keystroke="alt ESCAPE" />
