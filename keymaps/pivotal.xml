@@ -330,6 +330,9 @@
   <action id="ToggleBookmark" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="control meta alt U" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="control meta alt H" />
   </action>
