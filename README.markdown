@@ -1,7 +1,7 @@
 Pivotal RubyMine Preferences
 ============================
 
-**IMPORTANT NOTE:  In all of the following paths/commands, replace "XX" with your proper RubyMine version**
+**IMPORTANT NOTE:  In all of the following paths/commands, replace "32" with your proper RubyMine version**
 
 Pivotal Standard RubyMine Keymap
 --------------------------------
@@ -12,7 +12,7 @@ To install these keybindings into RubyMine copy the pivotal.xml file to this pat
 
 ...or you can just run the following command:
 
-`wget --no-check-certificate -O ~/Library/Preferences/RubyMineXX/keymaps/pivotal.xml http://github.com/bonkydog/Pivotal-Preferences-RubyMine/raw/master/keymaps/pivotal.xml`
+`wget --no-check-certificate -O ~/Library/Preferences/RubyMine32/keymaps/pivotal.xml http://github.com/bonkydog/Pivotal-Preferences-RubyMine/raw/master/keymaps/pivotal.xml`
 
 If RubyMine is running you will need to restart before the keybindings will be available.
 
@@ -36,8 +36,8 @@ Clone & then copy jasmine.xml and webOS.xml into this path:
 
 ...or you can just run the following commands:
 
-`wget --no-check-certificate -O ~/Library/Preferences/RubyMineXX/templates/jasmine.xml http://github.com/bonkydog/Pivotal-Preferences-RubyMine/raw/master/templates/jasmine.xml`
+`wget --no-check-certificate -O ~/Library/Preferences/RubyMine32/templates/jasmine.xml http://github.com/bonkydog/Pivotal-Preferences-RubyMine/raw/master/templates/jasmine.xml`
 
-`wget --no-check-certificate -O ~/Library/Preferences/RubyMineXX/templates/webOS.xml http://github.com/bonkydog/Pivotal-Preferences-RubyMine/raw/master/templates/webOS.xml`
+`wget --no-check-certificate -O ~/Library/Preferences/RubyMine32/templates/webOS.xml http://github.com/bonkydog/Pivotal-Preferences-RubyMine/raw/master/templates/webOS.xml`
 
 If RubyMine is running you will need to restart before the templates will be available.
