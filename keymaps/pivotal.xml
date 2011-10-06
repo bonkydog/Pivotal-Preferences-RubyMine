@@ -294,6 +294,8 @@
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift F10" />
+    <keyboard-shortcut first-keystroke="F12" />
+    <keyboard-shortcut first-keystroke="UNDEFINED" />
   </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift meta F8" />
