@@ -181,6 +181,9 @@
     <keyboard-shortcut first-keystroke="shift TAB" />
     <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
   </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt F8" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="F3" />
     <keyboard-shortcut first-keystroke="control L" />
@@ -196,7 +199,6 @@
     <keyboard-shortcut first-keystroke="control F3" />
   </action>
   <action id="ForceStepOver">
-    <keyboard-shortcut first-keystroke="shift meta F10" />
     <keyboard-shortcut first-keystroke="shift alt F8" />
   </action>
   <action id="Forward">
@@ -289,10 +291,8 @@
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="F9" />
-    <keyboard-shortcut first-keystroke="alt F8" />
   </action>
   <action id="Run">
-    <keyboard-shortcut first-keystroke="meta F8" />
     <keyboard-shortcut first-keystroke="shift F10" />
   </action>
   <action id="RunClass">
@@ -306,15 +306,12 @@
     <keyboard-shortcut first-keystroke="control meta alt UP" />
   </action>
   <action id="StepInto">
-    <keyboard-shortcut first-keystroke="alt F9" />
     <keyboard-shortcut first-keystroke="F7" />
   </action>
   <action id="StepOut">
-    <keyboard-shortcut first-keystroke="meta alt F10" />
     <keyboard-shortcut first-keystroke="shift F8" />
   </action>
   <action id="StepOver">
-    <keyboard-shortcut first-keystroke="alt F10" />
     <keyboard-shortcut first-keystroke="F8" />
   </action>
   <action id="ToggleBookmark" />
