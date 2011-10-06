@@ -79,12 +79,15 @@
     <keyboard-shortcut first-keystroke="meta DIVIDE" />
     <keyboard-shortcut first-keystroke="control SLASH" />
   </action>
+  <action id="ContextHelp" />
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift meta C" />
     <keyboard-shortcut first-keystroke="shift control C" />
   </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift F9" />
+    <keyboard-shortcut first-keystroke="F15" />
+    <keyboard-shortcut first-keystroke="F11" />
   </action>
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift meta alt F8" />
