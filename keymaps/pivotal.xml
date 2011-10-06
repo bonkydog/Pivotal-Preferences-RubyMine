@@ -112,6 +112,9 @@
   <action id="EditorCodeBlockStart">
     <keyboard-shortcut first-keystroke="control OPEN_BRACKET" />
   </action>
+  <action id="EditorCutLineEnd">
+    <keyboard-shortcut first-keystroke="control K" />
+  </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="DELETE" />
   </action>
